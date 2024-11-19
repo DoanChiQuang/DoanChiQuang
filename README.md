@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Doan Chi Quang, a Software Developer
 - 👀 I'm particularly interested in building Full-Stack Web/Mobile applications using React, Next.jsm NestJS, React Native...
-- 🌱 My goal in the future is to become a better Junior Full-Stack in both Web and Mobile Developer
+- 🌱 My goal in the future is to become a better Junior Full-Stack Web/Mobile Developer
 - 📫 Feel free to connect with me by email [quangdc120701@gmail.com](url)
